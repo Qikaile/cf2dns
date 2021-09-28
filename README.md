@@ -1,5 +1,5 @@
 如果你使用的华为云 那么请移步 https://github.com/Arronlong/py_scripts/tree/master/scripts/cf2dns
-感谢小伙伴的辛勤付出 搞定了华为云这个世纪难题
+感谢小伙伴的辛勤付出 搞定了华为云这个世纪难题 
 
 ### 功能介绍
 
@@ -71,8 +71,6 @@ pip install -r requirements.txt
 python cf2dns.py
 ```
 
-
-
 ### 免责声明
 
 > 1.网络环境错综复杂，适合我的不一定适合你，所以尽量先尝试免费的KEY或者购买试用版的KEY
@@ -82,4 +80,3 @@ python cf2dns.py
 > 3.为什么收费？ 这个标价我也根本不指望赚钱，甚至不够我国内一台VDS的钱。
 >
 > ★ 如果当前DNSPod有移动、联通、电信线路的解析将会覆盖掉
-
